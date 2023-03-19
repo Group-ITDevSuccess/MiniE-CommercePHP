@@ -1,4 +1,5 @@
 <?php
+  $commandes = true;
   include_once("Shared/header.php");
 ?>
 

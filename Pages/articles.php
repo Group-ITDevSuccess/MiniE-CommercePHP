@@ -1,4 +1,5 @@
 <?php
+  $articles = true;
   include_once("Shared/header.php");
 ?>
 

@@ -1,4 +1,5 @@
 <?php
+  $clients = true;
   include_once("Shared/header.php");
 ?>
 

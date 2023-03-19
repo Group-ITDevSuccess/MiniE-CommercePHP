@@ -1,4 +1,5 @@
 <?php
+  $accueil = true;
   include_once("Shared/header.php");
 ?>
 
